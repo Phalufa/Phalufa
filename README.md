@@ -7,7 +7,3 @@
 
 <br />
 <br />
-
-### Check Out My Portfolio Website
-
-[Here!](https://chgal.com)
