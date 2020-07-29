@@ -10,4 +10,4 @@
 
 ### Check Out My Portfolio Website
 
-[website]: https://chgal.com
+[Here!](https://chgal.com)
